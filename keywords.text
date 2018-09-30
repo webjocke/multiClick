@@ -1,0 +1,4 @@
+tick KEYWORD2
+setSingleClickFunction KEYWORD2
+setDoubleClickFunction KEYWORD2
+setLongClickFunction KEYWORD2

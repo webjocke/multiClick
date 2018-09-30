@@ -1,0 +1,9 @@
+name=MultiButton
+version=1.0.0
+author=webjocke <jocke@somewhatcompetent.net>
+maintainer=webjocke <jocke@somewhatcompetent.net>
+sentence=Handle different button clicks with ease.
+paragraph=A simple button Arduino library to get single-, double- and long-clicks.
+category=Signal Input/Output
+url=https://www.github.com/webjocke/multiClick
+architectures=*
