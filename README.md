@@ -1,10 +1,10 @@
 # MultiClick
-A simple Arduino library that make it eazy to detect single, double and long clicks.
+A simple Arduino library that makes it eazy to detect single, double and long clicks.
 
 **OBS!** *This project is under development, more precise the debounce is not implemented yet. Everything else works.* **OBS!**
 
 ## Tested hardware
-* NodeMCU V1.0 / ESP8266: <span style="color: lightgreen">**Works!**</span>
+* NodeMCU V1.0 / ESP8266: <i style="color:lightgreen">**Works!**</i>
 
 ## How to use
 First download and install this library in your IDE and include it in your sketch by typing `#include <multiClick.h>` at the top of the document.
