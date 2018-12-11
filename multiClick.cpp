@@ -41,7 +41,9 @@ void MultiClick::tick() {
 
   // Check if still pressed
   if (button1_last == now and now == true) {
-    if (current_time - last_up > longpress_ms and current_time - last_up < longpress_ms + 5 and last_up != 0) { // Check for a long click
+    if (current_time - last_up > longpress_ms and
+        current_time - last_up < longpress_ms + 5 and
+        last_up != 0) { // Check for a long click
       last_up = current_time;
       long_clicked = true;
       long_function();
