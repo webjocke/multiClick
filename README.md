@@ -1,5 +1,5 @@
 # MultiClick
-A simple Arduino library that makes it eazy to detect single, double and long clicks.
+A simple Arduino library that makes it eazy to detect single, double and long clicks..
 
 **OBS!** *This project is under development, more precise the debounce is not implemented yet. Everything else works.* **OBS!**
 
